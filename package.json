@@ -1,0 +1,16 @@
+{
+  "name": "tranquil-policy-rub",
+  "productName": "tranquil-policy-rub",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "anuraagw",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "3.0.0-beta.7"
+  }
+}
